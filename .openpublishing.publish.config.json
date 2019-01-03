@@ -21,6 +21,8 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
+  "enable_pull_request_custom_validation": true,
+  "enable_branch_build_custom_validation": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [],
   "need_generate_pdf_url_template": false
